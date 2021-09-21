@@ -1,6 +1,6 @@
 # ***SheHacks-Project1-Personalassistant-Tessa***
 <p align="center">
- <img width="120px" src="https://user-images.githubusercontent.com/84260242/134179743-4d2570d5-cf32-4b29-bcc7-4ffe110ab0c8.png" />
+ <img width="120px" src="https://user-images.githubusercontent.com/84260242/134184077-fa68311c-65da-4391-b9e1-c642e8439771.png" />
 </p>
 
 <h1 align="center">Personal assistant-Tessa</h1>
