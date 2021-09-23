@@ -3,7 +3,8 @@
  <img width="600px" src="https://user-images.githubusercontent.com/84260242/134184077-fa68311c-65da-4391-b9e1-c642e8439771.png" />
 </p>
 <span style="font-family: 'Lucida Console';">Introducing our all new personal assistant tessa.....</span>
-
+<p>An intelligent virtual assistant (IVA) or intelligent personal assistant (IPA) is a software agent that can perform tasks or services for an individual based on commands or questions. The term "chatbot" is sometimes used to refer to virtual assistants generally or specifically accessed by online chat. In some cases, online chat programs are exclusively for entertainment purposes. Some virtual assistants are able to interpret human speech and respond via synthesized voices. Users can ask their assistants questions, control home automation devices and media playback via voice, and manage other basic tasks such as email, to-do lists, and calendars with verbal (spoken?) commands. A similar concept, however with differences, lays under the dialogue systems.
+ 
 <p align="center"> 🌟 Star this repository, if you find it useful.</p> 
 <div align="center">
 </div>
