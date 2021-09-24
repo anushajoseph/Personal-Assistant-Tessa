@@ -8,7 +8,9 @@ import pyjokes
 listener = sr.Recognizer()
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
-engine.setProperty('voices', voices[1].id)
+engine.setProperty('voice', voices[1].id)
+engine.say('Hey I am Tessa ,How can I help you')
+engine.runAndWait()
 
 def talk(text):
             engine.say(text)
