@@ -9,7 +9,8 @@ listener = sr.Recognizer()
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
-engine.say('Hey I am Tessa ,How can I help you')
+engine.say('Hey I am Tessa')
+engine.say('How can I help you')
 engine.runAndWait()
 
 def talk(text):
@@ -32,14 +33,18 @@ def take_command():
 
 
 def run_tessa():
-    command = take_command()
-    print(command)
-    if 'play' in command:
-        song = command.replace('play','')
-        talk('playing'+song)
-        pywhatkit.playonyt(song)
-    else:
-        talk('Please say the command again')
+        command = take_command()
+
+        print(command)
+        if 'play' in command:
+            song = command.replace('play','')
+            talk('playing'+song)
+            pywhatkit.playonyt(song)
+        elif 'time' in command:
+            time = datetime.datetime.now().strftime('%I:%M %p')
+            talk('Current time is ' + time)
+        else:
+            talk('Please say the command again')
 
 while True:
-    run_tessa()
+        run_tessa()
