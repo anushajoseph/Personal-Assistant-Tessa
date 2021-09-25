@@ -27,9 +27,9 @@ def take_command():
             if 'alexa'in command:
                 command = command.replace('alexa', '')
                 print(command)
-        return command
     except:
         pass
+    return command
 
 
 def run_tessa():
@@ -47,4 +47,8 @@ def run_tessa():
             talk('Please say the command again')
 
 while True:
+    try:
         run_tessa()
+    except UnboundLocalError:
+        print("No command detected! Alexa has stopped working ")
+        break
