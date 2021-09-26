@@ -1,9 +1,14 @@
+
+#import external libraries
+
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
 import datetime
 import wikipedia
 import pyjokes
+
+#speech recognition
 
 listener = sr.Recognizer()
 engine = pyttsx3.init()
@@ -13,11 +18,9 @@ engine.say('Hey I am Tessa')
 engine.say('How can I help you')
 engine.runAndWait()
 
-
 def talk(text):
     engine.say(text)
     engine.runAndWait()
-
 
 def take_command():
     try:
@@ -33,6 +36,7 @@ def take_command():
         pass
     return command
 
+#pywhatkit
 
 def run_tessa():
     command = take_command()
@@ -47,6 +51,9 @@ def run_tessa():
         print('searching' + term)
         talk('searching' + term)
         pywhatkit.search(term)
+
+#date-time
+
     elif 'what is the time' in command:
         time = datetime.datetime.now().strftime('%I:%M %p')
         print('Current time is ' + time)
@@ -55,15 +62,22 @@ def run_tessa():
         date = datetime.datetime.now().strftime("%B %d, %Y")
         print('Today is ' + date)
         talk('Today is ' + date)
+
+#wikipedia
+
     elif 'wiki ' in command:
         topic = command.replace('wiki ', '')
         info = wikipedia.summary(topic, 2)
         print(info)
         talk(info)
+
+#pyjokes
+
     elif 'tell me a joke' in command:
         joke = pyjokes.get_joke()
         print(joke)
         talk(joke)
+
     else:
         talk('Please say the command again')
 
