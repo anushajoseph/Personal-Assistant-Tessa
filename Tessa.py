@@ -41,6 +41,11 @@ def run_tessa():
         song = command.replace('play', '')
         talk('playing' + song)
         pywhatkit.playonyt(song)
+    elif 'search' in command:
+        term = command.replace('search', '')
+        talk('searching' + term)
+        pywhatkit.search(term)
+        print(term)
     elif 'what is the time' in command:
         time = datetime.datetime.now().strftime('%I:%M %p')
         print('Current time is ' + time)
