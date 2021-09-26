@@ -39,21 +39,27 @@ def run_tessa():
     print(command)
     if 'play' in command:
         song = command.replace('play', '')
+        print('playing' + song)
         talk('playing' + song)
         pywhatkit.playonyt(song)
     elif 'search' in command:
         term = command.replace('search', '')
+        print('searching' + term)
         talk('searching' + term)
         pywhatkit.search(term)
-        print(term)
     elif 'what is the time' in command:
         time = datetime.datetime.now().strftime('%I:%M %p')
         print('Current time is ' + time)
         talk('Current time is ' + time)
     elif 'what is the date' in command:
         date = datetime.datetime.now().strftime("%B %d, %Y")
-        print('Current date is ' + date)
-        talk('Current date is ' + date)
+        print('Today is ' + date)
+        talk('Today is ' + date)
+    elif 'wiki ' in command:
+        topic = command.replace('wiki ', '')
+        info = wikipedia.summary(topic, 2)
+        print(info)
+        talk(info)
     else:
         talk('Please say the command again')
 
@@ -62,5 +68,5 @@ while True:
     try:
         run_tessa()
     except UnboundLocalError:
-        print("No command detected! Tessa has stopped working ")
+        print("No command detected!\nTessa has stopped working ")
         exit()
