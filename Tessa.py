@@ -60,6 +60,10 @@ def run_tessa():
         info = wikipedia.summary(topic, 2)
         print(info)
         talk(info)
+    elif 'tell me a joke' in command:
+        joke = pyjokes.get_joke()
+        print(joke)
+        talk(joke)
     else:
         talk('Please say the command again')
 
