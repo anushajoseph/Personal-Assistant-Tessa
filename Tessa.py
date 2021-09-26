@@ -7,8 +7,11 @@ import pywhatkit
 import datetime
 import wikipedia
 import pyjokes
+import requests
 
-#speech recognition
+
+
+#speech recognition & pyttsx3
 
 listener = sr.Recognizer()
 engine = pyttsx3.init()
@@ -77,6 +80,20 @@ def run_tessa():
         joke = pyjokes.get_joke()
         print(joke)
         talk(joke)
+
+#weather
+
+    elif 'current weather in ' in command:
+        api_address = 'http://api.openweathermap.org/data/2.5/weather?appid=62b743472ce5e32f9fb2a3b2b63856c8&q='
+        city = command.replace('current weather in ', '')
+        url = api_address + city
+        json_data = requests.get(url).json()
+        weather = json_data['weather'][0]['description']
+        temp_k = json_data['main']['temp']
+        temp_c = int(temp_k - 273.15)
+        talk(temp_c)
+        talk('degree celsius , with')
+        talk(weather)
 
     else:
         talk('Please say the command again')
