@@ -7,7 +7,6 @@
 <p>
  We are very thankful for giving this oppurtunity so we could really use our brains on this project. This project helped us understand some core concepts and workflows on creating a personal assistant using several modules. We learned how to take commands and reply to those commands accordingly to the user needs. We learned about several modules in python to get certain needs. Overall it was a great learning experience.</p>
  
-<p align="center"> 🌟 Star this repository, if you find it useful.</p> 
 <div align="center">
 </div>
 
@@ -54,3 +53,5 @@
  8.Added jokes to tessa by importing the library pyjoke.
  
  9.Its all set.
+
+<p align="center"> 🌟 Star this repository, if you find it useful.</p> 
