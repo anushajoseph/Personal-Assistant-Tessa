@@ -56,4 +56,4 @@
 
 <p align="center"> 🌟 Star this repository, if you find it useful.</p> 
 
- ![gif](https://github.com/anushajoseph/SheHacks-Project1-Personalassistant-Tessa/issues/3#issue-1008236434)
+ ![gif](ef0936558e58d6bebf73fee2ae895fe3.gif)
