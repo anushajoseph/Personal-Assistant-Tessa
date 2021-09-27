@@ -18,18 +18,18 @@
 2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
 3. [SNEHA C SHAJI](https://github.com/sneha2180)
 
-<p>Input taken:From user
- Output:Voice and action generated based on given data.
- libraries used:
-speech_recognition
-pyttsx3
-pywhatkit
-datetime
-wikipedia
-pyjokes
-requests
+-Input taken:From user
+-Output:Voice and action generated based on given data.
+ ### libraries used:
+-speech_recognition
+-pyttsx3
+-pywhatkit
+-datetime
+-wikipedia
+-pyjokes
+-requests
  
- #How it works?
+ # How it works?
  1.Imported speech_recognition for recognising the voice from the user.
  2.Imported pyttsx3 for converting text to speech.
  3.Changed male voice to female voice without any libraries.(voice [1]).
