@@ -57,11 +57,11 @@ def run_tessa():
 
 #date-time
 
-    elif 'what is the time' in command:
+    elif 'time' in command:
         time = datetime.datetime.now().strftime('%I:%M %p')
         print('Current time is ' + time)
         talk('Current time is ' + time)
-    elif 'what is the date' in command:
+    elif 'date' in command:
         date = datetime.datetime.now().strftime("%B %d, %Y")
         print('Today is ' + date)
         talk('Today is ' + date)
