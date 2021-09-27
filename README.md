@@ -55,3 +55,5 @@
  9.Its all set.
 
 <p align="center"> 🌟 Star this repository, if you find it useful.</p> 
+
+![gif](https://github.com/anushajoseph/SheHacks-Project1-Personalassistant-Tessa/issues/3#issue-1008236434)
