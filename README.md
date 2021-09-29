@@ -11,14 +11,13 @@
 </div>
 <br />
 
+-Input taken: From user
+-Output: Voice and action generated based on given data.
+
 ## Team members:
 1. [ANUSHA JOSEPH](https://github.com/anushajoseph)
 2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
 3. [SNEHA C SHAJI](https://github.com/sneha2180)
-
--Input taken: From user
-
--Output: Voice and action generated based on given data.
 
  ## Libraries used:
  
