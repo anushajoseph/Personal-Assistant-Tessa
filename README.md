@@ -117,7 +117,7 @@ $ Tessa.py
  <td>Today is....</td>
  </tr><tr>
  <td>wikipedia(topic)</td>		   
- <td>(2 lines form the wikipidia page)</td>
+ <td>(2 lines form the wikipedia page)</td>
  </tr><tr>
  <td>joke</td>		   
  <td>(joke from pyjokes)</td>
@@ -128,7 +128,7 @@ $ Tessa.py
  </tr>
   <tr>
  <td>bye</td>		   
- <td>Thank you,Assistance accomplished!Huzzah!</td>
+ <td>Thank you, Assistance accomplished! Huzzah!</td>
  </tr>
 </table>
 
