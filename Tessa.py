@@ -13,7 +13,7 @@ import requests
 listener = sr.Recognizer()
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
-engine.setProperty('voice', voices[0].id)
+engine.setProperty('voice', voices[1].id)
 print('Hey I am Tessa\nHow can I help you?')
 engine.say('Hey I am Tessa')
 engine.say('How can I help you?')
@@ -43,7 +43,6 @@ def run_tessa():
     command = take_command()
     if 'hello' in command:
         command = command.replace('hello', '')
-        print(command)
         print("What can I do for you?")
         talk("What can I do for you?")
 
