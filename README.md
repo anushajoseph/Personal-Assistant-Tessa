@@ -63,25 +63,25 @@ $ Tessa.py
 
  ## How it works:
  
- 1.Imported speech_recognition for recognising the voice of the user.
+ 1. Imported speech_recognition for recognising the voice of the user.
  
- 2.Imported pyttsx3 for converting text to speech.
+ 2. Imported pyttsx3 for converting text to speech.
  
- 3.Changed male voice to female voice by setting index number to 1 (voice [1]).
+ 3. Changed male voice to female voice by setting index number to 1 (voice [1]).
  
- 4.Added basic commands in the code.
+ 4. Added basic commands in the code.
  
- 5.Got access to Youtube and Google using pywhatkit.
+ 5. Got access to Youtube and Google using pywhatkit.
  
- 6.Imported datetime to know the current date or time if asked by the user.
+ 6. Imported datetime to know the current date or time if asked by the user.
  
- 7.Got access to wikipedia by importing python wikipedia.
+ 7. Got access to wikipedia by importing python wikipedia.
  
- 8.Added jokes by importing the library pyjokes.
+ 8. Added jokes by importing the library pyjokes.
  
- 9.Imported requests to get json data from URL to give current weather condition of the place asked.
+ 9. Imported requests to get json data from URL to give current weather condition of the place asked.
  
- 10.It is all set to run.
+ 10. It is all set to run.
  
   ## Actions performed:
  
