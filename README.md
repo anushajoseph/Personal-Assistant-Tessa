@@ -84,6 +84,53 @@ $ Tessa.py
  8.Added jokes to tessa by importing the library pyjoke.
  
  9.Its all set.
+ 
+  ## Actions performed
+ 
+ <table>
+<tr>
+ <td>COMMAND</td>   
+ <td>REPLY</td>
+</tr>
+<tr>
+ <td>hello</td>		   
+ <td>What can I do for you?</td>		
+</tr>
+<tr>
+ <td>who are you or what can you do</td>		   
+ <td>I am Tessa your personal assistant. I am programmed to perform minor tasks like, play songs in youtube, search in google chrome, tell date and time, search in wikipedia, tell current weather in different places and you can ask me to tell a joke too</td>
+</tr>
+<tr>
+ <td>play (song)</td>		   
+ <td>playing (song)</td>
+</tr>
+<tr>
+ <td>search (topic)</td>		   
+ <td>searching (topic)</td>
+</tr>
+<tr>
+ <td>time</td>		   
+ <td>Current time is.....</td>
+</tr>
+<tr>
+ <td>date</td>		   
+ <td>Today is....</td>
+ </tr><tr>
+ <td>wikipedia(topic)</td>		   
+ <td>(2 lines form the wikipidia page)</td>
+ </tr><tr>
+ <td>joke</td>		   
+ <td>(joke from pyjokes)</td>
+ </tr>
+ <tr>
+ <td>weather</td>		   
+ <td>(temprature in degree celsius with weather condition)</td>
+ </tr>
+  <tr>
+ <td>bye</td>		   
+ <td>Thank you,Assistance accomplished!Huzzah!</td>
+ </tr>
+</table>
 
 
  ![gif](ef0936558e58d6bebf73fee2ae895fe3.gif)
