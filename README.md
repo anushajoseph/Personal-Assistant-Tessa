@@ -47,7 +47,7 @@ $ sudo apt-get install python3-pip
 **2.** Clone this repository to your local drive
 
 ```shell
-$ git clone https://github.com/arjun-ms/20-20
+$ git clone https://github.com/anushajoseph/SheHacks-Project1-Personalassistant-Tessa
 ```
 
 **3.** Install dependencies
