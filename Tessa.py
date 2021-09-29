@@ -99,6 +99,17 @@ def run_tessa():
         print(str(temp_c) + '°C, with ' + weather)
         talk(str(temp_c) + 'degree celsius, with ' + weather)
 
+    # about me
+
+    elif 'who are you' in command or 'what can you do' in command:
+        talk('I am Tessa your personal assistant. I am programmed to perform minor tasks like, play songs in youtube, search in google chrome, tell date and time, search in wikipedia, tell current weather in different places and you can ask me to tell a joke too')
+
+    # creators
+
+    elif 'who made you' in command or 'who created you' in command or 'who discovered you' in command:
+        print("I was built by Anusha, Sandra and Sneha.")
+        talk("I was built by Anusha, Sandra and Sneha.")
+
     elif 'bye' in command:
         print("Thank you\nAssistance accomplished!\nHuzzah!")
         talk("Thank you. Assistance accomplished. Huzzah")
