@@ -16,6 +16,10 @@
 2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
 3. [SNEHA C SHAJI](https://github.com/sneha2180)
 
+  ## Link to product walkthrough:
+ 
+ https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8
+ 
  ## Libraries used:
  
 -speech_recognition
@@ -31,11 +35,7 @@
 -pyjokes
 
 -requests
- 
- ## Link to product walkthrough:
- 
- https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8
- 
+  
  ## How to configure:
 **1.** Installing pip [Python Package Manager]
 
