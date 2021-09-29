@@ -61,7 +61,7 @@ $ pip3 install -r requirements.txt
 $ Tessa.py
 ```
 
- ## How it works?
+ ## How it works:
  
  1.Imported speech_recognition for recognising the voice from the user.
  
