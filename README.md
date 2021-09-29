@@ -16,9 +16,9 @@
 2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
 3. [SNEHA C SHAJI](https://github.com/sneha2180)
 
--Input taken:From user
+-Input taken: From user
 
--Output:Voice and action generated based on given data.
+-Output: Voice and action generated based on given data.
 
  ## Libraries used:
  
