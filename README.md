@@ -60,7 +60,15 @@ $ git clone https://github.com/anushajoseph/SheHacks-Project1-Personalassistant-
 $ pip3 install -r requirements.txt
 ```
 
-**4.** 
+**4.**Open Terminal and Run the Flask Server
+
+```shell
+$ Tessa.py
+```
+
+
+Thank You.
+ 
 
  ## How it works?
  
