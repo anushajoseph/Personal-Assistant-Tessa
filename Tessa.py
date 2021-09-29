@@ -8,7 +8,7 @@ import wikipedia
 import pyjokes
 import requests
 
-# speech recognition & pyttsx3
+# speech recognition & pyttsx3 (python text to speech version 3)
 
 listener = sr.Recognizer()
 engine = pyttsx3.init()
@@ -42,7 +42,6 @@ def take_command():
 def run_tessa():
     command = take_command()
     if 'hello' in command:
-        command = command.replace('hello', '')
         print("What can I do for you?")
         talk("What can I do for you?")
 
@@ -102,7 +101,9 @@ def run_tessa():
     # about me
 
     elif 'who are you' in command or 'what can you do' in command:
-        talk('I am Tessa your personal assistant. I am programmed to perform minor tasks like, play songs in youtube, search in google chrome, tell date and time, search in wikipedia, tell current weather in different places and you can ask me to tell a joke too')
+        talk('I am Tessa your personal assistant. I am programmed to perform minor tasks like,'
+             ' play songs in youtube, search in google chrome, tell date and time, search in wikipedia, '
+             'tell current weather in different places and you can ask me to tell a joke too')
 
     # creators
 
@@ -111,7 +112,7 @@ def run_tessa():
         talk("I was built by Anusha, Sandra and Sneha.")
 
     elif 'bye' in command:
-        print("Thank you\nAssistance accomplished!\nHuzzah!")
+        print("Thank you.\nAssistance accomplished!\nHuzzah!")
         talk("Thank you. Assistance accomplished. Huzzah")
         exit()
 
