@@ -38,7 +38,7 @@
 -requests
  
  ## Link to product walkthrough:
- Watch the video by clicking image below
+ 
  https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8
  
  ## How to configure
