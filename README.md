@@ -37,7 +37,29 @@
 
 -requests
  
+ ## How to configure
+**1.** Installing pip [Python Package Manager]
+
+```shell
+$ sudo apt-get install python3-pip
+```
+
+**2.** Clone this repository to your local drive
+
+```shell
+$ git clone https://github.com/arjun-ms/20-20
+```
+
+**3.** Install dependencies
+
+```shell
+$ pip3 install -r requirements.txt
+```
+
+**4.** 
+
  ## How it works?
+ 
  1.Imported speech_recognition for recognising the voice from the user.
  
  2.Imported pyttsx3 for converting text to speech.
