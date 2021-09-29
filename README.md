@@ -12,7 +12,7 @@
 
 <br />
 
-### *Team members*
+## *Team members*
 1. [ANUSHA JOSEPH](https://github.com/anushajoseph)
 2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
 3. [SNEHA C SHAJI](https://github.com/sneha2180)
@@ -21,7 +21,7 @@
 
 -Output:Voice and action generated based on given data.
 
- ### Libraries used:
+ ## Libraries used:
  
 -speech_recognition
 
@@ -37,7 +37,7 @@
 
 -requests
  
- ### How it works?
+ ## How it works?
  1.Imported speech_recognition for recognising the voice from the user.
  
  2.Imported pyttsx3 for converting text to speech.
