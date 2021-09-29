@@ -97,7 +97,7 @@ $ Tessa.py
  <td>What can I do for you?</td>		
 </tr>
 <tr>
- <td>who are you or what can you do</td>		   
+ <td>who are you / what can you do</td>	   
  <td>I am Tessa your personal assistant. I am programmed to perform minor tasks like, play songs in youtube, search in google chrome, tell date and time, search in wikipedia, tell current weather in different places and you can ask me to tell a joke too</td>
 </tr>
 <tr>
