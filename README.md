@@ -117,7 +117,7 @@ $ Tessa.py
  <td>Today is....</td>
  </tr><tr>
  <td>wikipedia (topic)</td>		   
- <td>(2 lines form the wikipedia page)</td>
+ <td>(2 lines from the wikipedia page)</td>
  </tr><tr>
  <td>joke</td>		   
  <td>(joke from pyjokes)</td>
