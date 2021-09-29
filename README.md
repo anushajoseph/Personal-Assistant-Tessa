@@ -89,8 +89,8 @@ $ Tessa.py
  
  <table>
 <tr>
- <td>COMMAND</td>   
- <td>REPLY</td>
+ <td><h5>COMMAND</h5></td>   
+ <td><h5>REPLY</h5></td>
 </tr>
 <tr>
  <td>hello</td>		   
@@ -117,7 +117,7 @@ $ Tessa.py
  <td>Today is....</td>
  </tr><tr>
  <td>wikipedia(topic)</td>		   
- <td>(2 lines form the wikipedia page)</td>
+ <td>(2 lines form the wikipidia page)</td>
  </tr><tr>
  <td>joke</td>		   
  <td>(joke from pyjokes)</td>
@@ -128,7 +128,7 @@ $ Tessa.py
  </tr>
   <tr>
  <td>bye</td>		   
- <td>Thank you, Assistance accomplished! Huzzah!</td>
+ <td>Thank you,Assistance accomplished!Huzzah!</td>
  </tr>
 </table>
 
