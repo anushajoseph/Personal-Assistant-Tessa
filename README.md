@@ -67,7 +67,7 @@ $ pip3 install -r requirements.txt
  
  2.Imported pyttsx3 for converting text to speech.
  
- 3.Changed male voice to female voice without any libraries.(voice [1]).
+ 3.Changed male voice to female voice without any libraries (voice [1]).
  
  4.Added basic commands in code.
  
