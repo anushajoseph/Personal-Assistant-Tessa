@@ -5,7 +5,7 @@
 <span style="font-family: 'Lucida Console';">Introducing our all new personal assistant Tessa.....</span>
 <p>An intelligent virtual assistant (IVA) or intelligent personal assistant (IPA) is a software agent that can perform tasks or services for an individual based on commands or questions. The term "chatbot" is sometimes used to refer to virtual assistants generally or specifically accessed by online chat. In some cases, online chat programs are exclusively for entertainment purposes. Some virtual assistants are able to interpret human speech and respond via synthesized voices. Users can ask their assistant questions, control home automation devices, and media playback via voice, and manage other basic tasks such as email, to-do lists, and calendars with verbal (spoken?) commands. A similar concept, however with differences, lays under the dialogue systems.</p>
 
- ***We are very thankful for giving us this opportunity so we could really use our brains on the project. This project helped us understand some core concepts and workflows on creating a personal assistant using Python. We learned how to take commands and reply to them according to the user's needs. We got to know about several modules in Python which were used for certain needs in the project. Overall it was a great learning experience.***
+ ***We are very thankful for giving us this opportunity so we could really use our brains on the project. This project helped us to understand some core concepts and workflows on creating a personal assistant using Python. We learned how to take commands and reply to them according to the user's needs. We got to know about several modules in Python which were used for certain needs in the project. Overall it was a great learning experience.***
  
 -Input taken: From user
 <br/>
@@ -67,7 +67,7 @@ $ Tessa.py
  
  2. Imported pyttsx3 for converting text to speech.
  
- 3. Changed male voice to female voice by setting index number to 1 (voice [1]).
+ 3. Changed male voice to female voice by setting index number to 1 (voices[1]).
  
  4. Added basic commands in the code.
  
