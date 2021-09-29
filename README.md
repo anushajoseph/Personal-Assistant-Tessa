@@ -7,11 +7,8 @@
 
  ***We are very thankful for giving this oppurtunity so we could really use our brains on this project. This project helped us understand some core concepts and workflows on creating a personal assistant using several modules. We learned how to take commands and reply to those commands accordingly to the user needs. We learned about several modules in python to get certain needs.overall it was a great learning experience.***
  
-<div align="center">
-</div>
-<br />
-
 -Input taken: From user
+<br/>
 -Output: Voice and action generated based on given data.
 
 ## Team members:
@@ -131,8 +128,7 @@ $ Tessa.py
  </tr>
 </table>
 
- 
  ![gif](ef0936558e58d6bebf73fee2ae895fe3.gif)
  <p align="center">
  🌟 Star this repository, if you find it useful.
-</p>
+ </p>
