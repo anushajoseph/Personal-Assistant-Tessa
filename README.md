@@ -41,7 +41,7 @@
  
  https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8
  
- ## How to configure
+ ## How to configure:
 **1.** Installing pip [Python Package Manager]
 
 ```shell
