@@ -37,6 +37,10 @@
 
 -requests
  
+ ## Link to product walkthrough
+(
+https://www.loom.com)
+ 
  ## How to configure
 **1.** Installing pip [Python Package Manager]
 
