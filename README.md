@@ -38,7 +38,7 @@
 -requests
  
  ## Link to product walkthrough:
-[![Watch the video]](https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8)
+[![Watch the video](https://cdn1.vectorstock.com/i/1000x1000/56/20/businesswoman-personal-assistant-vector-24975620.jpg)](https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8)
  
  ## How to configure
 **1.** Installing pip [Python Package Manager]
