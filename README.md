@@ -11,7 +11,7 @@
 </div>
 
 <br />
-
+<hr>
 ### *Team members*
 1. [ANUSHA JOSEPH](https://github.com/anushajoseph)
 2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
