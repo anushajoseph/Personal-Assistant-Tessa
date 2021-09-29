@@ -12,7 +12,7 @@
 
 <br />
 
-## Team members
+## Team members:
 1. [ANUSHA JOSEPH](https://github.com/anushajoseph)
 2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
 3. [SNEHA C SHAJI](https://github.com/sneha2180)
@@ -37,9 +37,8 @@
 
 -requests
  
- ## Link to product walkthrough
-(
-https://www.loom.com)
+ ## Link to product walkthrough:
+[![Watch the video]](https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8)
  
  ## How to configure
 **1.** Installing pip [Python Package Manager]
