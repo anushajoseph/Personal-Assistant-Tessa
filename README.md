@@ -20,7 +20,7 @@
  
  https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8
  
- ## Libraries used:
+## Libraries used:
  
 -speech_recognition
 
@@ -83,7 +83,7 @@ $ Tessa.py
  
  10. It is all set to run.
  
- ## Actions performed:
+## Actions performed:
  
  <table>
 <tr>
