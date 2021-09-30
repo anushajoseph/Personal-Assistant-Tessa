@@ -130,7 +130,8 @@ $ Tessa.py
  </tr>
 </table>
 
- ![gif](ef0936558e58d6bebf73fee2ae895fe3.gif)
- <p align="center">
- 🌟 Star this repository, if you find it useful.
- </p>
+<p align="center">
+<img src="ef0936558e58d6bebf73fee2ae895fe3.gif"/>
+<br/>
+🌟 Star this repository, if you find it useful.
+</p>
