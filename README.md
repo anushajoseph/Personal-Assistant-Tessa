@@ -16,7 +16,7 @@
 2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
 3. [SNEHA C SHAJI](https://github.com/sneha2180)
 
-  ## Link to product walkthrough:
+## Link to product walkthrough:
  
  https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8
  
@@ -35,8 +35,8 @@
 -pyjokes
 
 -requests
-  
- ## How to configure:
+
+## How to configure:
 **1.** Installing pip [Python Package Manager]
 
 ```shell
@@ -61,7 +61,7 @@ $ pip3 install -r requirements.txt
 $ Tessa.py
 ```
 
- ## How it works:
+## How it works:
  
  1. Imported speech_recognition for recognising the voice of the user.
  
@@ -83,7 +83,7 @@ $ Tessa.py
  
  10. It is all set to run.
  
-  ## Actions performed:
+ ## Actions performed:
  
  <table>
 <tr>
