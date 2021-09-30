@@ -7,14 +7,14 @@
 
  ***We are very thankful for giving us this opportunity so we could really use our brains on the project. This project helped us to understand some core concepts and workflows on creating a personal assistant using Python. We learned how to take commands and reply to them according to the user's needs. We got to know about several modules in Python which were used for certain needs in the project. Overall it was a great learning experience.***
  
--Input taken: From user
-<br/>
--Output: Voice and action generated based on given data.
+- Input taken: From user
+- Output: Voice and action generated based on given data.
 
 ## Team members:
-1. [ANUSHA JOSEPH](https://github.com/anushajoseph)
-2. [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)
-3. [SNEHA C SHAJI](https://github.com/sneha2180)
+
+**1.** [ANUSHA JOSEPH](https://github.com/anushajoseph)<br/>
+**2.** [SANDRA ROSA ANTONY](https://github.com/Sandra-Rosa)<br/>
+**3.** [SNEHA C SHAJI](https://github.com/sneha2180)
 
 ## Link to product walkthrough:
  
@@ -22,19 +22,19 @@ https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8
  
 ## Libraries used:
  
--speech_recognition
+- speech_recognition
 
--pyttsx3
+- pyttsx3
 
--pywhatkit
+- pywhatkit
 
--datetime
+- datetime
 
--wikipedia
+- wikipedia
 
--pyjokes
+- pyjokes
 
--requests
+- requests
 
 ## How to configure:
 **1.** Installing pip [Python Package Manager]
@@ -63,25 +63,25 @@ $ Tessa.py
 
 ## How it works:
  
-1. Imported speech_recognition for recognising the voice of the user.
+**1.** Imported speech_recognition for recognising the voice of the user.
  
-2. Imported pyttsx3 for converting text to speech.
+**2.** Imported pyttsx3 for converting text to speech.
  
-3. Changed male voice to female voice by setting index number to 1 (voices[1]).
+**3.** Changed male voice to female voice by setting index number to 1 (voices[1]).
  
-4. Added basic commands in the code.
+**4.** Added basic commands in the code.
  
-5. Got access to Youtube and Google using pywhatkit.
+**5.** Got access to Youtube and Google using pywhatkit.
  
-6. Imported datetime to know the current date or time if asked by the user.
+**6.** Imported datetime to know the current date or time if asked by the user.
  
-7. Got access to wikipedia by importing python wikipedia.
+**7.** Got access to wikipedia by importing python wikipedia.
  
-8. Added jokes by importing the library pyjokes.
+**8.** Added jokes by importing the library pyjokes.
  
-9. Imported requests to get json data from URL to give current weather condition of the place asked.
+**9.** Imported requests to get json data from URL to give current weather condition of the place asked.
  
-10. It is all set to run.
+**10.** It is all set to run.
  
 ## Actions performed:
  
@@ -132,6 +132,6 @@ $ Tessa.py
 
 <p align="center">
 <img src="ef0936558e58d6bebf73fee2ae895fe3.gif"/>
-<br/>
-🌟 Star this repository, if you find it useful.
+<br/><br/>
+🌟 Star this repository if you find it useful.
 </p>
