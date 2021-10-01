@@ -92,7 +92,7 @@ $ Tessa.py
  <td><h5>REPLY</h5></td>
 </tr>
 <tr>
- <td>hello</td>		   
+ <td>hi / hello</td>		   
  <td>What can I do for you?</td>		
 </tr>
 <tr>
@@ -132,7 +132,7 @@ $ Tessa.py
 </table>
 
 <p align="center">
-<img src="ef0936558e58d6bebf73fee2ae895fe3.gif"/>
+<img src="personalassistant.gif"/>
 <br/><br/>
 🌟 Star this repository if you find it useful.
 </p>
