@@ -41,7 +41,7 @@ def take_command():
 
 def run_tessa():
     command = take_command()
-    if 'hello' in command:
+    if 'hi' in command or 'hello' in command:
         print("What can I do for you?")
         talk("What can I do for you?")
 
