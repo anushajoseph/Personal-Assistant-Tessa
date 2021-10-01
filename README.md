@@ -100,7 +100,7 @@ $ Tessa.py
  <td>I am Tessa your personal assistant. I am programmed to perform minor tasks like, play songs in youtube, search in google chrome, tell date and time, search in wikipedia, tell current weather in different places and you can ask me to tell a joke too</td>
 </tr>
  <tr>
- <td>who made you /<br/> who created you / <br/>who discovered you</td>		   
+ <td>who made you /<br/> who created you / who discovered you</td>		   
  <td>I was built by Anusha, Sandra and Sneha.</td>
 </tr>
 <tr>
