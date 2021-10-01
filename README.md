@@ -19,7 +19,7 @@
 
 ## Link to product walkthrough:
  
-https://www.loom.com/share/0b744d410cba478ebe39ddc107a679d8
+https://www.loom.com/share/584e40a0f592426998ef6908241fc1d7
  
 ## Libraries used:
  
